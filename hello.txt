@@ -1,4 +1,8 @@
 новая строка
 другая строка
 
+<<<<<<< HEAD
 hello, world
+=======
+hello git!
+>>>>>>> master
